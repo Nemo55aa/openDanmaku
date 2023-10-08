@@ -1,0 +1,23 @@
+﻿  DrawPixel.cpp
+C:\Users\3yuut\source\repos\danmakuTemplate_2310071\danmakuTemplate_2310071\utils.h(121,21): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\3yuut\source\repos\danmakuTemplate_2310071\danmakuTemplate_2310071\utils.h(136,22): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\3yuut\source\repos\danmakuTemplate_2310071\danmakuTemplate_2310071\ovlovrDx.h(21,32): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\3yuut\source\repos\danmakuTemplate_2310071\danmakuTemplate_2310071\ovlovrDx.h(21,25): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\3yuut\source\repos\danmakuTemplate_2310071\danmakuTemplate_2310071\dkActor.h(318,69): warning C4805: '==': 演算中の 'int' 型と 'bool' 型の混用は安全ではありません
+C:\Users\3yuut\source\repos\danmakuTemplate_2310071\danmakuTemplate_2310071\dkActor.h(397,15): warning C4101: 'temp': ローカル変数は 1 度も使われていません。
+C:\Users\3yuut\source\repos\danmakuTemplate_2310071\danmakuTemplate_2310071\bullets.h(60,40): warning C4018: '>': signed と unsigned の数値を比較しようとしました。
+C:\Users\3yuut\source\repos\danmakuTemplate_2310071\danmakuTemplate_2310071\DrawPixel.cpp(249,66): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\3yuut\source\repos\danmakuTemplate_2310071\danmakuTemplate_2310071\DrawPixel.cpp(249,51): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\3yuut\source\repos\danmakuTemplate_2310071\danmakuTemplate_2310071\DrawPixel.cpp(249,36): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\3yuut\source\repos\danmakuTemplate_2310071\danmakuTemplate_2310071\DrawPixel.cpp(249,21): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\3yuut\source\repos\danmakuTemplate_2310071\danmakuTemplate_2310071\DrawPixel.cpp(362,41): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\3yuut\source\repos\danmakuTemplate_2310071\danmakuTemplate_2310071\DrawPixel.cpp(362,26): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\3yuut\source\repos\danmakuTemplate_2310071\danmakuTemplate_2310071\DrawPixel.cpp(134,18): warning C4101: 'velotemp': ローカル変数は 1 度も使われていません。
+C:\Users\3yuut\source\repos\danmakuTemplate_2310071\danmakuTemplate_2310071\DrawPixel.cpp(136,6): warning C4101: 'tmpmsg': ローカル変数は 1 度も使われていません。
+C:\Users\3yuut\source\repos\danmakuTemplate_2310071\danmakuTemplate_2310071\DrawPixel.cpp(145,21): warning C4101: 'himgb2': ローカル変数は 1 度も使われていません。
+C:\Users\3yuut\source\repos\danmakuTemplate_2310071\danmakuTemplate_2310071\DrawPixel.cpp(144,9): warning C4101: 'vsize': ローカル変数は 1 度も使われていません。
+C:\Users\3yuut\source\repos\danmakuTemplate_2310071\danmakuTemplate_2310071\DrawPixel.cpp(407,40): warning C4805: '==': 演算中の 'int' 型と 'bool' 型の混用は安全ではありません
+C:\Users\3yuut\source\repos\danmakuTemplate_2310071\danmakuTemplate_2310071\DrawPixel.cpp(425,40): warning C4805: '==': 演算中の 'int' 型と 'bool' 型の混用は安全ではありません
+C:\Users\3yuut\source\repos\danmakuTemplate_2310071\danmakuTemplate_2310071\DrawPixel.cpp(429,40): warning C4805: '==': 演算中の 'int' 型と 'bool' 型の混用は安全ではありません
+C:\Users\3yuut\source\repos\danmakuTemplate_2310071\danmakuTemplate_2310071\utils.h(102): warning C4715: 'findDisableObj': 値を返さないコントロール パスがあります。
+  danmakuTemplate_2310071.vcxproj -> C:\Users\3yuut\source\repos\danmakuTemplate_2310071\Debug\danmakuTemplate_2310071.exe
