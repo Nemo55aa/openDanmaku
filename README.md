@@ -16,10 +16,10 @@ N-way弾や狙い撃ち弾など，弾幕ゲームにはよくある/よく使�
 このgithubからDownloadZipすると，以下のようなファイルの入ったものをダウンロードできます．
 ![readmeImg1](https://github.com/Nemo55aa/openDanmaku/assets/147301350/564ff017-b3af-4a0b-bba0-203d8036ee14)
 ## danmakuTemplate_YYMMDDn
-VisualStudio2019のソリューションフォルダをそのままコピーしたものをアップロードしています．
+VisualStudio2019のソリューションフォルダをそのままコピーしたものをアップロードしています．  
 プレイヤーや敵の画像，ステージの画像を例として入れています．
-## NemoDanmakuTemplate.zip
-VS2019のプロジェクトのテンプレートです．こちらを
-\Documents\Visual Studio 2019\My Exported Templates
-においておけば，新規プロジェクトの作成時にDanmakuのプロジェクトを作成することができます．
-プロジェクトテンプレートから作成すると，/imgや/soundsなどのフォルダは作成されません．
+## NemoDanmakuTemplate.zip  
+VS2019のプロジェクトのテンプレートです．こちらを  
+\Documents\Visual Studio 2019\My Exported Templates  
+においておけば，新規プロジェクトの作成時にDanmakuのプロジェクトを作成することができます．  
+プロジェクトテンプレートから作成すると，/imgや/soundsなどのフォルダは作成されません．  
