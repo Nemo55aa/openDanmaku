@@ -9,7 +9,7 @@ dxlib を使わせていただいています．（ライセンス表記はdxlib
 本職（ゲーム・プログラムなどは関係ない）の合間でやっているのでゆっくりとした反応だと思いますがよろしくお願いいたします．
 # 導入
 まずはDxlibのホームページから  
-（https://dxlib.xsrv.jp/dxuse.html）  
+https://dxlib.xsrv.jp/dxuse.html  
 に従ってソリューションを整えてください．  
 その後，以下のファイル/ファイルの内容をコピペすることによってライブラリを使用することができます．
 
@@ -32,3 +32,7 @@ Dxlibの画像描写などの関数を上記utils.hに定義されているベ�
 VS2019のプロジェクトのテンプレートです．こちらを  
 \Documents\Visual Studio 2019\My Exported Templates  
 においておけば，新規プロジェクトの作成時にDanmakuのプロジェクトを作成することができます．
+
+# サンプルゲーム
+インストーラーを以下のURLからダウンロードできます．
+https://ux.getuploader.com/danmakuTempSample_231009/download/1
